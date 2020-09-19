@@ -1,0 +1,246 @@
+2020-09-14 11:23:05 INFO  API:42 - ********* Started TC001_REG_user  **********
+2020-09-14 11:23:12 INFO  API:79 - *********  Finished C001_REG_user **********
+2020-09-14 11:23:12 INFO  API:29 - ********* Started TC002_LOGIN_user **********
+2020-09-14 11:23:13 INFO  API:54 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 11:25:21 INFO  API:29 - ********* Started TC002_LOGIN_user **********
+2020-09-14 11:25:24 INFO  API:54 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 11:42:25 INFO  API:27 - ********* Started TC002_LOGIN_user **********
+2020-09-14 11:42:29 INFO  API:36 - {"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAwODE5NDgsImlhdCI6MTYwMDA2Mzk0OH0.XfjcRxG15edN8E-Tzx7yfbs47U_N4LGcwpa9JipPP1jUxaK28F8iXCx_bzyJ5jeSp3HEa15L4lbyGj6mafY3cA"}
+2020-09-14 11:42:29 INFO  API:52 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 19:13:26 INFO  API:42 - ********* Started TC001_REG_user  **********
+2020-09-14 19:13:34 INFO  API:79 - *********  Finished C001_REG_user **********
+2020-09-14 19:18:54 INFO  API:24 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:19:55 INFO  API:24 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:20:20 INFO  API:24 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:21:48 INFO  API:24 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:22:10 INFO  API:42 - ********* Started TC001_REG_user  **********
+2020-09-14 19:22:17 INFO  API:79 - *********  Finished C001_REG_user **********
+2020-09-14 19:23:02 INFO  API:42 - ********* Started TC001_REG_user  **********
+2020-09-14 19:23:10 INFO  API:79 - *********  Finished C001_REG_user **********
+2020-09-14 19:23:46 INFO  API:42 - ********* Started TC001_REG_user  **********
+2020-09-14 19:23:54 INFO  API:79 - *********  Finished C001_REG_user **********
+2020-09-14 19:24:04 INFO  API:24 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:24:07 INFO  API:26 - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAxMDk2NDcsImlhdCI6MTYwMDA5MTY0N30.N4FAqLBdtKWOy8VTc5VkcHGSk3Jlu9bY_qhhoqNQdplniBZSgH8W8mq5AuwTyhamoQ3_VUKhzZaFtaBXdh14nA
+2020-09-14 19:25:06 INFO  API:24 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:25:10 INFO  API:26 - eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAxMDk3MDksImlhdCI6MTYwMDA5MTcwOX0.UVGbYqlV7E6c1L3IdA1EhnuW9t1i4En4weX8ZdhfSWgbjbA1MhX9QY2KsjDuxhVbeWYlSlA3eIiCzdsoCV7RmQ
+2020-09-14 19:27:24 INFO  API:30 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:27:27 INFO  API:44 - {"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAxMDk4NDYsImlhdCI6MTYwMDA5MTg0Nn0.uskbEeAGg4C5fEVJnrF7XmWqXh2ugfA07RGPWW51pzIilS4_FyD4dnOGrS3zRA2rVxbPXUG5mPnbUcXQHPr0Rg"}
+2020-09-14 19:27:27 INFO  API:53 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 19:31:24 INFO  API:31 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:31:27 INFO  API:45 - {"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAxMTAwODcsImlhdCI6MTYwMDA5MjA4N30.jOO78CalmZ9B1Exm_jqu06kXhp-tVe9cpdVZDFSw0fzLSa8gob4Xv6tN7i9QkFkDW9h2DauwbWATw5BByVdvLw"}
+2020-09-14 19:31:27 INFO  API:67 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 19:38:35 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:39:02 INFO  API:49 - {"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAxMTA1MjksImlhdCI6MTYwMDA5MjUyOX0.HQqPzAr3ZAcOB9_9ZXZRYXYgu6nhG3ydGIEQL12UDQ-Uy4eLSSqvcHgOWLmoC5l5whE6SYjKoMwuLCe-ex7mCQ"}
+2020-09-14 19:41:29 INFO  API:80 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 19:41:37 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:41:42 INFO  API:49 - {"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAxMTA3MDEsImlhdCI6MTYwMDA5MjcwMX0.G-C2ALeci5kJ5KrJW7eCJGla8omiUcrVzDgqoiv6f7XJyaVPS-ekNQ_qolieWKL6z6m_q4q17gGeQflGgv3kgA"}
+2020-09-14 19:44:51 INFO  API:80 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 19:45:00 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:45:04 INFO  API:49 - {"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAxMTA5MDMsImlhdCI6MTYwMDA5MjkwM30.rFn6hw9RROp5Pb6N0eGaOxLp3SHDlqDqUwh1qsnyJXNJ_y9p4o3lL2H9ne-LdGzQBDW5KBYzp7KQBV-WaPjpbA"}
+2020-09-14 19:46:46 INFO  API:80 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 19:48:36 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:48:39 INFO  API:49 - {"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAxMTExMTksImlhdCI6MTYwMDA5MzExOX0.q6hF6KdHtbT-h6taaVUBjWfTi5gGWwEVIf4tDAqy97zN8BJ8uccwoxOQpJRoEUHGZT_KdtAWh4JAgowwQotKSg"}
+2020-09-14 19:48:39 INFO  API:69 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 19:48:59 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:49:03 INFO  API:49 - {"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAxMTExNDIsImlhdCI6MTYwMDA5MzE0Mn0.c044SftNMbEU68AYudCBPH2nI4I3id2mmwtNJbulzP96HuSVhAql7SzOSKbmI9Z4CLlwjD0GzVDGLDM4PTXyyg"}
+2020-09-14 19:49:03 INFO  API:59 - {"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJydXBlZWsiLCJleHAiOjE2MDAxMTExNDIsImlhdCI6MTYwMDA5MzE0Mn0.c044SftNMbEU68AYudCBPH2nI4I3id2mmwtNJbulzP96HuSVhAql7SzOSKbmI9Z4CLlwjD0GzVDGLDM4PTXyyg"}
+2020-09-14 19:49:03 INFO  API:69 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 19:49:49 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:49:53 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 19:49:53 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 19:49:53 INFO  API:69 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 19:55:35 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:55:39 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 19:55:39 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 19:55:50 INFO  API:77 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 19:56:26 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 19:56:30 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 19:56:31 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 19:56:44 INFO  API:77 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:07:57 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:08:00 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:08:00 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:08:01 INFO  API:73 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:08:40 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:08:44 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:08:44 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:08:44 INFO  API:73 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:09:17 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:09:20 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:09:21 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:09:21 INFO  API:73 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:13:35 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:13:39 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:13:39 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:13:47 INFO  API:74 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:13:54 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:13:58 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:13:58 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:14:24 INFO  API:74 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:14:34 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:14:37 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:14:38 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:14:44 INFO  API:74 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:17:54 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:17:58 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:17:58 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:17:58 INFO  API:74 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:21:04 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:21:08 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:21:08 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:21:51 INFO  API:79 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:21:59 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:22:02 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:22:03 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:22:23 INFO  API:79 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:22:30 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:22:34 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:22:34 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:23:04 INFO  API:79 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:23:11 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:23:15 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:23:15 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:25:46 INFO  API:79 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:25:54 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:25:58 INFO  API:49 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:25:58 INFO  API:59 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:26:04 INFO  API:81 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:27:48 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:27:53 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:27:53 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:27:53 INFO  API:77 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:32:49 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:32:53 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:32:53 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:33:53 INFO  API:78 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:34:00 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:34:04 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:34:04 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:34:04 INFO  API:76 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:37:59 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:38:03 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:38:03 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:38:03 INFO  API:76 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:38:52 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:38:56 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:38:56 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:39:03 INFO  API:68 - 8037602400
+2020-09-14 20:39:06 INFO  API:68 - 8037602400
+2020-09-14 20:39:06 INFO  API:68 - 8037602400
+2020-09-14 20:39:06 INFO  API:77 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:39:27 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:39:30 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:39:30 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:39:30 INFO  API:68 - 8037602400
+2020-09-14 20:39:30 INFO  API:68 - 9972939567
+2020-09-14 20:39:30 INFO  API:68 - 9995879555
+2020-09-14 20:39:30 INFO  API:77 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:41:47 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:41:50 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:41:50 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:41:50 INFO  API:68 - 8037602400
+2020-09-14 20:41:50 INFO  API:68 - 9972939567
+2020-09-14 20:41:50 INFO  API:68 - 9995879555
+2020-09-14 20:41:50 INFO  API:86 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 20:48:26 INFO  API:55 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:48:30 INFO  API:69 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:48:30 INFO  API:79 - 8037602400
+2020-09-14 20:48:30 INFO  API:79 - 9972939567
+2020-09-14 20:48:30 INFO  API:79 - 9995879555
+2020-09-14 20:48:31 INFO  API:138 - *********  Finished TC003_RESET_password  **********
+2020-09-14 20:49:54 INFO  API:55 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:49:58 INFO  API:69 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:49:58 INFO  API:79 - 8037602400
+2020-09-14 20:49:58 INFO  API:79 - 9972939567
+2020-09-14 20:49:58 INFO  API:79 - 9995879555
+2020-09-14 20:49:58 INFO  API:130 - *********  Finished TC003_RESET_password  **********
+2020-09-14 20:50:19 INFO  API:55 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:50:22 INFO  API:69 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:50:22 INFO  API:79 - 8037602400
+2020-09-14 20:50:22 INFO  API:79 - 9972939567
+2020-09-14 20:50:22 INFO  API:79 - 9995879555
+2020-09-14 20:50:24 INFO  API:130 - *********  Finished TC003_RESET_password  **********
+2020-09-14 20:51:28 INFO  API:55 - ********* Started TC002_LOGIN_user **********
+2020-09-14 20:51:31 INFO  API:69 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 20:51:31 INFO  API:79 - 8037602400
+2020-09-14 20:51:31 INFO  API:79 - 9972939567
+2020-09-14 20:51:31 INFO  API:79 - 9995879555
+2020-09-14 20:51:31 INFO  API:94 - {"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"}
+2020-09-14 20:51:32 INFO  API:94 - {"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"}
+2020-09-14 20:51:32 INFO  API:94 - {"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}
+2020-09-14 20:51:32 INFO  API:131 - *********  Finished TC003_RESET_password  **********
+2020-09-14 21:01:57 INFO  API:51 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:02:00 INFO  API:117 - *********  Finished TC003_RESET_password  **********
+2020-09-14 21:02:43 INFO  API:42 - ********* Started TC001_REG_user  **********
+2020-09-14 21:02:51 INFO  API:79 - *********  Finished C001_REG_user **********
+2020-09-14 21:02:51 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:02:52 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:02:52 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:03:00 INFO  API:68 - 8037602400
+2020-09-14 21:03:00 INFO  API:68 - 9972939567
+2020-09-14 21:03:00 INFO  API:68 - 9995879555
+2020-09-14 21:03:00 INFO  API:86 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 21:03:00 INFO  API:51 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:03:01 INFO  API:117 - *********  Finished TC003_RESET_password  **********
+2020-09-14 21:16:21 INFO  API:42 - ********* Started TC001_REG_user  **********
+2020-09-14 21:16:29 INFO  API:79 - *********  Finished C001_REG_user **********
+2020-09-14 21:16:29 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:16:31 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:16:31 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:16:41 INFO  API:68 - 8037602400
+2020-09-14 21:16:41 INFO  API:68 - 9972939567
+2020-09-14 21:16:41 INFO  API:68 - 9995879555
+2020-09-14 21:16:41 INFO  API:85 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 21:16:41 INFO  API:51 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:16:42 INFO  API:118 - *********  Finished TC003_RESET_password  **********
+2020-09-14 21:18:58 INFO  API:51 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:19:01 INFO  API:122 - *********  Finished TC003_RESET_password  **********
+2020-09-14 21:19:26 INFO  API:51 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:19:29 INFO  API:122 - *********  Finished TC003_RESET_password  **********
+2020-09-14 21:19:42 INFO  API:42 - ********* Started TC001_REG_user  **********
+2020-09-14 21:19:49 INFO  API:79 - *********  Finished C001_REG_user **********
+2020-09-14 21:19:49 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:19:50 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:19:51 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:19:51 INFO  API:68 - 8037602400
+2020-09-14 21:19:51 INFO  API:68 - 9972939567
+2020-09-14 21:19:51 INFO  API:68 - 9995879555
+2020-09-14 21:19:51 INFO  API:85 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 21:19:51 INFO  API:51 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:19:51 INFO  API:122 - *********  Finished TC003_RESET_password  **********
+2020-09-14 21:20:47 INFO  API:42 - ********* Started TC001_REG_user  **********
+2020-09-14 21:20:55 INFO  API:79 - *********  Finished C001_REG_user **********
+2020-09-14 21:20:55 INFO  API:35 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:20:56 INFO  API:48 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:20:56 INFO  API:58 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:20:56 INFO  API:68 - 8037602400
+2020-09-14 21:20:56 INFO  API:68 - 9972939567
+2020-09-14 21:20:56 INFO  API:68 - 9995879555
+2020-09-14 21:20:56 INFO  API:85 - *********  Finished TC002_LOGIN_user  **********
+2020-09-14 21:20:56 INFO  API:55 - ********* Started TC002_LOGIN_user **********
+2020-09-14 21:20:57 INFO  API:69 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:20:57 INFO  API:79 - 8037602400
+2020-09-14 21:20:57 INFO  API:79 - 9972939567
+2020-09-14 21:20:57 INFO  API:79 - 9995879555
+2020-09-14 21:21:05 INFO  API:94 - {"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"}
+2020-09-14 21:21:08 INFO  API:94 - {"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"}
+2020-09-14 21:21:11 INFO  API:94 - {"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}
+2020-09-14 21:21:14 INFO  API:131 - *********  Finished TC003_RESET_password  **********
+2020-09-14 21:27:58 INFO  API:42 - ********* Started TC001_LOG_IN_user  **********
+2020-09-14 21:28:06 INFO  API:79 - *********  Finished C001_LOG_IN_user **********
+2020-09-14 21:28:06 INFO  API:28 - ********* Started TC002_Get_All_Users **********
+2020-09-14 21:28:07 INFO  API:40 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:28:07 INFO  API:50 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:28:07 INFO  API:60 - 8037602400
+2020-09-14 21:28:07 INFO  API:60 - 9972939567
+2020-09-14 21:28:07 INFO  API:60 - 9995879555
+2020-09-14 21:28:07 INFO  API:75 - *********  Finished TC002_Get_All_Users  **********
+2020-09-14 21:28:07 INFO  API:54 - ********* Started TC003_Get_User_Detail_For_Phone **********
+2020-09-14 21:28:08 INFO  API:68 - [{"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"},{"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"},{"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}]
+2020-09-14 21:28:08 INFO  API:78 - 8037602400
+2020-09-14 21:28:08 INFO  API:78 - 9972939567
+2020-09-14 21:28:08 INFO  API:78 - 9995879555
+2020-09-14 21:28:08 INFO  API:93 - {"first_name":"Aliko","last_name":"Dangote","career":"Billionaire Industrialist","phone":"8037602400"}
+2020-09-14 21:28:08 INFO  API:93 - {"first_name":"Bill","last_name":"Gates","career":"Billionaire Tech Entrepreneur","phone":"9972939567"}
+2020-09-14 21:28:08 INFO  API:93 - {"first_name":"Folrunsho","last_name":"Alakija","career":"Billionaire Oil Magnate","phone":"9995879555"}
+2020-09-14 21:28:08 INFO  API:130 - *********  Finished TC003_Get_User_Detail_For_Phone  **********
